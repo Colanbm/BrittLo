@@ -12,3 +12,4 @@ Ubildning i trädgårdsarbete, grönsaker, frukter, blommor att använda till eg
 # PRojektet kan skapa utbildning för mig och andra som är intresserade av odling med växter som är bra.
 # Inspiration till projektet: behov att vara utomhus och arbeta med det som är växande i naturen.
 Naturen ger oss det som vi behöver för ett gott liv.
+![trädgård](/
