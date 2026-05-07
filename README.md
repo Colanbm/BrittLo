@@ -1,5 +1,5 @@
-<!--# BrittLo
-#Trädgårdsarbete
+
+##Trädgårdsarbete
 Avslut på Building AI kurs
 ##Summering
 Trädgårdsarbete för mig, tillsammans med andra kunniga och utbildade odlingsintresserade.
