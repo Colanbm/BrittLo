@@ -9,3 +9,6 @@ Ubildning i trädgårdsarbete, grönsaker, frukter, blommor att använda till eg
 #Vill jobba med trädgårdsarbete på heltid, tillsammans med andra kunniga inom trådgård och odling.
 ##Källor: Jag söker efter kunskap för odling av växter till egen vård, drycker, genom böcker i ämnet.
 ##Källor: Internetsidor med beskrivning av olika växter och deras näringsvärde för bra egen vård.
+# PRojektet kan skapa utbildning för mig och andra som är intresserade av odling med växter som är bra.
+# Inspiration till projektet: behov att vara utomhus och arbeta med det som är växande i naturen.
+Naturen ger oss det som vi behöver för ett gott liv.
