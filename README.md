@@ -1,10 +1,10 @@
 # BrittLo
-Naturvandring
+Trädgårdsarbete
 #Avslut på Building AI kurs
 #Summering
-#Naturvandring i skogar fjäll och sjöar.
-#Nya och sevärda platser att vandra på i Norden.
-Träffa nya människor att vandra med.
-#Problem: tidsåtgången och kunskap att hitta nya ställen att vandra på.
-#Vägar att ta sig till nya ställen och eventuellt övernatta utomhus, i stuga eller så.
-#Jag behöver ofta komma ut till andra platser att vandra på och upptäcka naturen och dess växtlighet.
+#NTrädgårdsarbete för mig, tillsammans med andra kunniga och utbildade odlingsintresserade.
+#lära mig mer om odling av växter och kunna arbeta med det.
+Ubildning i trädgårdsarbete, grönsaker, frukter, blommor att använda till egen vård, äta och dricka.
+#Problem: Behöver mer kunskap inom stora ämnet odling med hållbar odling, på olika platser.
+#Vill jobba med trädgårdsarbete på heltid, tillsammans med andra kunniga inom trådgård och odling.
+
